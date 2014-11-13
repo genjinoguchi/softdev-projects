@@ -39,8 +39,7 @@ On clicking on one of the posts, users can comment by putting in a username and 
 	* Justin Kim
 	* Eric Chen
 #####Description
-A project that is going to use the MTA API, Twilio API, and possibly Sendgrid and Flickr API's.
-Project still in process.
+It's a flask back-end app that utilizes the MTA and Twilio API's in order to bring you smart MTA alerts for the delays that the MTA has every single freaking day. You can sign up on the website (which uses a Mongo Database), and you can input the trains that you're interested in as well as a cell phone number and a time for when you want to be alerted. If there are delays, then the system will indicate so with an sms message (we wanted to do at the time that the user indicated, but we didn't quite finish that yet.)
 ####Clone Link: https://github.com/softdev-projects/mta-smart-alerts.git
 
 
