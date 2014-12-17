@@ -44,6 +44,17 @@ It's a flask back-end app that utilizes the MTA and Twilio API's in order to bri
 
 
 
+###Project 4 : Breadcrumbs
+####Team Members:
+	* Genji Noguchi
+	* Justin Kim
+	* Eric Chen
+#####Description
+Coming soon.
+####Organization Link: https://github.com/breadcrumbs-app
+
+
+
 
 ##Mini Projects
  * login
