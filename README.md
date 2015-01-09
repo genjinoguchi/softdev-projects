@@ -8,17 +8,27 @@ Period 6
 
 ##Main Projects
 
-###Project 1 : Google Search
+
+###Project 4 : Breadcrumbs [FINAL]
 ####Team Members:
 	* Genji Noguchi
-	* Andreas Wang
-	* Sophie Gershon
-	* Sunnam Quisbe
-####Description:
-The website has a really simple interface. All it is is a simple search box in the middle of the screen, and a small signature at the bottom of the screen.
-It sends the string to the server, which does a simple check for "What" or "When." It searches for articles with the google module, parses through them with beautifulsoup, then regex's them for time or person. It then sends it to the browser to display it as the different possible queries with different sizes depending on the frequency.
-We had some difficulty with the google module, so the articles found are actually hard-coded.
-#####Clone link: https://github.com/genjinoguchi/softdev_homework_1.git
+	* Justin Kim
+	* Eric Chen
+#####Description
+Coming soon.
+####Organization Link: https://github.com/breadcrumbs-app
+
+
+
+###Project 3 : MTA Smart Alerts
+####Team Members:
+	* Genji Noguchi
+	* Justin Kim
+	* Eric Chen
+#####Description
+It's a flask back-end app that utilizes the MTA and Twilio API's in order to bring you smart MTA alerts for the delays that the MTA has every single freaking day. You can sign up on the website (which uses a Mongo Database), and you can input the trains that you're interested in as well as a cell phone number and a time for when you want to be alerted. If there are delays, then the system will indicate so with an sms message (we wanted to do at the time that the user indicated, but we didn't quite finish that yet.)
+####Clone Link: https://github.com/softdev-projects/mta-smart-alerts.git
+
 
 
 ###Project 2 : SoftBlog
@@ -33,25 +43,22 @@ On clicking on one of the posts, users can comment by putting in a username and 
 #####Clone Link: https://github.com/sadmanf/miniblog.git
 
 
-###Project 3 : MTA Smart Alerts
+
+
+###Project 1 : Google Search
 ####Team Members:
 	* Genji Noguchi
-	* Justin Kim
-	* Eric Chen
-#####Description
-It's a flask back-end app that utilizes the MTA and Twilio API's in order to bring you smart MTA alerts for the delays that the MTA has every single freaking day. You can sign up on the website (which uses a Mongo Database), and you can input the trains that you're interested in as well as a cell phone number and a time for when you want to be alerted. If there are delays, then the system will indicate so with an sms message (we wanted to do at the time that the user indicated, but we didn't quite finish that yet.)
-####Clone Link: https://github.com/softdev-projects/mta-smart-alerts.git
+	* Andreas Wang
+	* Sophie Gershon
+	* Sunnam Quisbe
+####Description:
+The website has a really simple interface. All it is is a simple search box in the middle of the screen, and a small signature at the bottom of the screen.
+It sends the string to the server, which does a simple check for "What" or "When." It searches for articles with the google module, parses through them with beautifulsoup, then regex's them for time or person. It then sends it to the browser to display it as the different possible queries with different sizes depending on the frequency.
+We had some difficulty with the google module, so the articles found are actually hard-coded.
+#####Clone link: https://github.com/genjinoguchi/softdev_homework_1.git
 
 
 
-###Project 4 : Breadcrumbs
-####Team Members:
-	* Genji Noguchi
-	* Justin Kim
-	* Eric Chen
-#####Description
-Coming soon.
-####Organization Link: https://github.com/breadcrumbs-app
 
 
 
