@@ -17,7 +17,7 @@ Period 6
 #####Description
 Breadcrumbs is a social network grounded in the places that we make memories. It takes the user's geolocation data as well as a small message, and places it as a marker on a Google Maps canvas. The site also offers a list view to show all of the crumbs that you have dropped.
 The backend is written in Ruby on Rails. The front end implements the Google Maps API as well as the JQuery JS library for simplified AJAX/XMLHTTPRequest calls.
-####Breadcrumbs: bc.jstn.kim:3000
+####Breadcrumbs: http://bc.jstn.kim:3000
 ####Organization Link: https://github.com/breadcrumbs-app
 
 
