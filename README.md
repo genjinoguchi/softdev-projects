@@ -67,6 +67,10 @@ We had some difficulty with the google module, so the articles found are actuall
 
 
 ##Mini Projects
+* canvas
+  * Fawn Wong, Genji Noguchi
+  * Location: /7/canvas/genji_fawn
+
  * login
   * Daniel Zabari, Genji Noguchi
   * Location: /6/login/genji_daniel
