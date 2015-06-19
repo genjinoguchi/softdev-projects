@@ -3,6 +3,58 @@ Genji Noguchi
 
 Projects for Software Development 2014-2015
 
+
+
+
+
+
+
+#Spring Semester
+Period 7
+
+##Main Projects
+
+
+###Final Project : DYA (Design Your Adventure)
+####Team Members:
+	* Genji Noguchi
+	* Edison Shi
+	* Angela Lin
+	* Derek Tsui
+####Breadcrumbs: http://dya.moooo.com
+####Video Link: https://www.youtube.com/watch?v=ne0wbDaWN6U
+####Organization Link: https://github.com/SwagCity
+
+
+##Mini Projects
+* Marionette
+	* Genji Noguchi
+	* Location: 7/marionette/genji_noguchi
+* Backbone
+	* Genji Noguchi, Fawn Wong
+	* Location: 7/backbone1/fawn_genji
+* Mountains
+	* Genji Noguchi
+	* Location: 7/mountains/genji_noguchi
+* SAT
+	* Genji Noguchi
+	* Location: 7/sat/genji_noguchi
+* SVG
+	* Genji Noguchi, Max Zhou, Derek Tsui
+	* 7/svg/genji_max_derek
+* Canvas
+	* Genji Noguchi, Fawn Wong
+	* 7/canvas/genji_fawn
+
+
+
+
+
+
+
+
+
+
 #Fall Semester
 Period 6
 
